@@ -9,4 +9,4 @@ The timezone of the given place is extracted using pytz library based on the lat
 The resulting widget generated for the list of places 'Chennai', 'Nice', 'Tokyo', 'La Paz', 'London' is shown below
 
 
-<img width="824" alt="weather and timezone widget tkinter white label" src="https://github.com/blockchainamm/blockchainamm/assets/82846751/8d601aa9-ebcc-40a5-a2b2-930def9901e0">
+<img width="825" alt="weather and timezone widget tkinter white screen" src="https://github.com/blockchainamm/blockchainamm/assets/82846751/32404f6b-81dc-4997-a3d6-26b528f78172">
