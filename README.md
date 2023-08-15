@@ -6,7 +6,7 @@ The weather data is loaded as a JSON data by means of API calls to the open weat
 
 The timezone of the given place is extracted using pytz library based on the latitude and longitude
 
-The resulting widget generated for the list of places 'Chennai', 'Nice', 'Tokyo', 'La Paz', 'London' is shown below
+The resulting widget generated for the list of places 'Chennai', 'Tokyo', 'Tiblisi', 'La Paz', 'Rome' is shown below
 
 
 <img width="825" alt="weather and timezone widget tkinter white screen" src="https://github.com/blockchainamm/blockchainamm/assets/82846751/32404f6b-81dc-4997-a3d6-26b528f78172">
